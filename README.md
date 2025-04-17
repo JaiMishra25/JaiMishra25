@@ -5,7 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=JaiMishra25&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/JaiMishra25)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/JaiMishra25)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:jaimishra502@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-Call-green?style=flat&logo=whatsapp)](tel:+917522016974)
+
 
 ### **Full Stack Developer | Problem Solver | Tech Enthusiast**
 *Building scalable web apps and crushing algorithms one line at a time!*
@@ -38,7 +38,7 @@ const jai = {
 |-------------|-----------------|
 | **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![ShadCN UI](https://img.shields.io/badge/-ShadCN_UI-000000?style=flat) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens) ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat&logo=socket.io) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) ![Neon](https://img.shields.io/badge/-Neon-000000?style=flat) ![Convex](https://img.shields.io/badge/-Convex-FF6B6B?style=flat) |
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
@@ -60,7 +60,7 @@ const jai = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **🛒 [BidNow](https://github.com/JaiMishra25)** | A full-stack auction platform with real-time bidding and admin dashboards.<br>• Live auction updates using socket.io for 50+ users<br>• Admin dashboard to manage 100+ auctions and dispute resolution<br>• JWT-secured login for 20+ users | Angular, Node.js, Express, MongoDB, WebSockets, JWT |
+| **🛒 [BidNow](https://github.com/JaiMishra25)** | A full-stack auction platform with real-time bidding and admin dashboards.<br>• Live auction updates for 50+ users<br>• Admin dashboard to manage 100+ auctions and dispute resolution<br>• JWT-secured login for 20+ users | Angular, Node.js, Express, MongoDB, JWT |
 | **💻 [CodeForge](https://github.com/JaiMishra25)** | A collaborative code editor with language support and Pro subscriptions.<br>• Real-time code sync and markdown preview<br>• Theme customization and multi-user collaboration<br>• Subscription integration with LemonSqueezy | Next.js 15, React, Convex, Clerk, Tailwind CSS, LemonSqueezy |
 | **💰 [FinancePro](https://github.com/JaiMishra25)** | An interactive financial toolkit with planners, quizzes, and calculators.<br>• 10+ calculators with charts and budgeting tools<br>• Goal-based financial planning simulation<br>• 25+ beta users and 200+ simulations tested | Next.js, TypeScript, Tailwind CSS, Prisma, Recharts |
 
@@ -84,7 +84,7 @@ const jai = {
 [![Email](https://img.shields.io/badge/-jaimishra502@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimishra502@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-JaiMishra25-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JaiMishra25)
 [![GitHub](https://img.shields.io/badge/-JaiMishra25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaiMishra25)
-[![Phone](https://img.shields.io/badge/-+91_7522016974-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917522016974)
+
 
 *Have an idea to collaborate on? Want to talk tech? Feel free to reach out!*
 
@@ -93,5 +93,7 @@ const jai = {
 ---
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
+
 </div>
