@@ -1,101 +1,97 @@
-<h1 align="center">Hi, I'm Jai Mishra 👋</h1>
+<div align="center">
+  
+# 👨‍💻 JAI MISHRA
 
-<p align="center">
-  <b>Full Stack Developer | Problem Solver | Tech Enthusiast</b><br/>
-  <i>Building scalable web apps and crushing algorithms one line at a time!</i>
-</p>
+[![Profile Views](https://komarev.com/ghpvc/?username=JaiMishra25&label=Profile%20Views&color=blueviolet&style=flat)](https://github.com/JaiMishra25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/JaiMishra25)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:jaimishra502@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-Call-green?style=flat&logo=whatsapp)](tel:+917522016974)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JaiMishra25&label=Profile%20Views&color=blueviolet&style=flat" alt="JaiMishra25" />
-</p>
+### **Full Stack Developer | Problem Solver | Tech Enthusiast**
+*Building scalable web apps and crushing algorithms one line at a time!*
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=JaiMishra25&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiMishra25&theme=radical" alt="GitHub Streak" width="48%" />
 
-### 🚀 About Me
+</div>
 
-I'm a passionate **B.Tech CSE student at IIIT Bhagalpur (2022–26)** with a strong grasp on **Data Structures, Algorithms**, and modern **web technologies**. From building full-stack real-time platforms to optimizing user experience with modern UI libraries, I enjoy working on both the frontend and backend of scalable applications.
+## ✨ About Me
 
-- 📞 +91 7522016974  
-- 📧 jaimishra502@gmail.com  
-- 🌐 [Portfolio Website](#) <!-- Add your portfolio link here -->  
-- 🔗 [LinkedIn](https://linkedin.com/in/JaiMishra25) | [GitHub](https://github.com/JaiMishra25)
+> **B.Tech CSE Student @ IIIT Bhagalpur (2022–26)**
 
----
+I'm a passionate software developer with a strong foundation in **Data Structures & Algorithms** and modern **web technologies**. My expertise spans both frontend and backend development, allowing me to create seamless full-stack applications that prioritize user experience and performance.
 
-### 🛠️ Tech Stack
+```javascript
+const jai = {
+  education: "B.Tech CSE @ IIIT Bhagalpur",
+  interests: ["Web Development", "Problem Solving", "System Design"],
+  currentFocus: "Building scalable applications with modern tech stacks",
+  achievement: "AIR 784 in CODEKAZE 2024 (Top 0.7% of 100,000+ participants)"
+};
+```
 
-**Languages:** C, C++, Python, JavaScript, TypeScript, HTML, CSS  
-**Frameworks & Libraries:** React, Next.js, Angular, Node.js, Express.js, Tailwind CSS, ShadCN UI, Prisma  
-**Tools & Platforms:** Git, GitHub, Postman, Vercel, Clerk, LemonSqueezy, Google Cloud, Convex  
-**Databases:** MongoDB, MySQL, PostgreSQL, Neon  
-**Cloud & Hosting:** Vercel, GCP  
-**Other Skills:** JWT Auth, REST APIs, WebSockets, Agile Development
+## 🛠️ Tech Arsenal
 
----
+<div align="center">
 
-### 💼 Internship
+| **Category** | **Technologies** |
+|-------------|-----------------|
+| **Languages** | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![ShadCN UI](https://img.shields.io/badge/-ShadCN_UI-000000?style=flat) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens) ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat&logo=socket.io) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) ![Neon](https://img.shields.io/badge/-Neon-000000?style=flat) ![Convex](https://img.shields.io/badge/-Convex-FF6B6B?style=flat) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?style=flat) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
-**Frontend Intern @ Infosys SpringBoard (Nov 2024 - Jan 2025)**  
-- Developed responsive Angular components for a live bidding platform.  
-- Integrated JWT-based role authentication for 20+ test users.  
-- Built admin dashboards with 10+ metrics and interactive charts.  
-- Worked in Agile sprints with version control and collaboration on Git.
+</div>
 
----
+## 💼 Professional Experience
 
-### 🌟 Highlight Projects
+### Frontend Intern @ Infosys SpringBoard
+**Nov 2024 - Jan 2025**
 
-#### 🛒 [BidNow](https://github.com/JaiMishra25)  
-*A full-stack auction platform with real-time bidding and admin dashboards.*  
-> Angular • Node.js • Express • MongoDB • WebSockets • JWT  
-- Live auction updates using socket.io for 50+ users.  
-- Admin dashboard to manage 100+ auctions and dispute resolution.  
-- JWT-secured login for 20+ users.
+- Developed responsive **Angular components** for a live bidding platform
+- Integrated **JWT-based role authentication** for 20+ test users
+- Built admin dashboards with 10+ metrics and interactive charts
+- Worked in **Agile sprints** with version control and collaboration on Git
 
-#### 💻 [CodeForge](https://github.com/JaiMishra25)  
-*A collaborative code editor with language support and Pro subscriptions.*  
-> Next.js 15 • React • Convex • Clerk • Tailwind CSS • LemonSqueezy  
-- Real-time code sync and markdown preview.  
-- Theme customization and multi-user collaboration.  
-- Subscription integration with LemonSqueezy.
+## 🌟 Highlight Projects
 
-#### 💰 [FinancePro](https://github.com/JaiMishra25)  
-*An interactive financial toolkit with planners, quizzes, and calculators.*  
-> Next.js • TypeScript • Tailwind CSS • Prisma • Recharts  
-- 10+ calculators with charts and budgeting tools.  
-- Goal-based financial planning simulation.  
-- 25+ beta users and 200+ simulations tested.
+<div align="center">
 
----
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🛒 [BidNow](https://github.com/JaiMishra25)** | A full-stack auction platform with real-time bidding and admin dashboards.<br>• Live auction updates using socket.io for 50+ users<br>• Admin dashboard to manage 100+ auctions and dispute resolution<br>• JWT-secured login for 20+ users | Angular, Node.js, Express, MongoDB, WebSockets, JWT |
+| **💻 [CodeForge](https://github.com/JaiMishra25)** | A collaborative code editor with language support and Pro subscriptions.<br>• Real-time code sync and markdown preview<br>• Theme customization and multi-user collaboration<br>• Subscription integration with LemonSqueezy | Next.js 15, React, Convex, Clerk, Tailwind CSS, LemonSqueezy |
+| **💰 [FinancePro](https://github.com/JaiMishra25)** | An interactive financial toolkit with planners, quizzes, and calculators.<br>• 10+ calculators with charts and budgeting tools<br>• Goal-based financial planning simulation<br>• 25+ beta users and 200+ simulations tested | Next.js, TypeScript, Tailwind CSS, Prisma, Recharts |
 
-### 📜 Certifications
+</div>
 
-- **Generative AI by Microsoft & LinkedIn**  
-  `Prompt Engineering | NLP | Ethical AI`
+## 📜 Certifications & Achievements
 
-- **Cybersecurity Essentials by Microsoft & LinkedIn**  
-  `Threat Detection | Network Vulnerabilities | Privacy`
+<div align="center">
 
----
+| **Certifications** | **Achievements** |
+|-------------------|------------------|
+| **Generative AI by Microsoft & LinkedIn**<br>`Prompt Engineering • NLP • Ethical AI` | 🥇 **AIR 784 in CODEKAZE 2024**<br>Top 0.7% out of 1,00,000+ participants |
+| **Cybersecurity Essentials by Microsoft & LinkedIn**<br>`Threat Detection • Network Vulnerabilities • Privacy` | 🧠 Solved **500+ DSA problems**<br>across LeetCode, CodeChef, and GFG |
 
-### 🏆 Achievements
+</div>
 
-- 🥇 **AIR 784 in CODEKAZE 2024** — Top 0.7% out of 1,00,000+ participants  
-- 🧠 Solved **500+ DSA problems** across LeetCode, CodeChef, and GFG
+## 🔗 Let's Connect!
 
----
+<div align="center">
 
-### 📈 GitHub Stats
+[![Email](https://img.shields.io/badge/-jaimishra502@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimishra502@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-JaiMishra25-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JaiMishra25)
+[![GitHub](https://img.shields.io/badge/-JaiMishra25-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaiMishra25)
+[![Phone](https://img.shields.io/badge/-+91_7522016974-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917522016974)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaiMishra25&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiMishra25&theme=radical" />
-</p>
+*Have an idea to collaborate on? Want to talk tech? Feel free to reach out!*
+
+</div>
 
 ---
 
-### 📬 Let's Connect!
-
-Have an idea to collaborate on? Want to talk tech? Feel free to reach out!  
-📫 [Email Me](mailto:jaimishra502@gmail.com) • 💼 [LinkedIn](https://linkedin.com/in/JaiMishra25)
-
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
