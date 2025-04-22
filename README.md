@@ -11,7 +11,7 @@
 *Building scalable web apps and crushing algorithms one line at a time!*
 
 <img src="https://github-readme-stats.vercel.app/api?username=JaiMishra25&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaiMishra25&theme=radical" alt="GitHub Streak" width="48%" />
+<img src="https://streak-stats.demolab.com?user=JaiMishra25&theme=radical" alt="GitHub Streak" width="48%" />
 
 </div>
 
