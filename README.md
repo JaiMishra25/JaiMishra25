@@ -26,7 +26,7 @@ const jai = {
   education: "B.Tech CSE @ IIIT Bhagalpur",
   interests: ["Web Development", "Problem Solving", "System Design"],
   currentFocus: "Building scalable applications with modern tech stacks",
-  achievement: "AIR 784 in CODEKAZE 2024 (Top 0.7% of 100,000+ participants)"
+  achievement: "AIR 784 in CODEKAZE 2024 (Top 0.7% of 100,000+ participants), Amazon ML Summer School 2025"
 };
 ```
 
