@@ -130,7 +130,6 @@ const jai: Developer = {
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
 
 ```
 ## 🏆 Achievements & Certifications
