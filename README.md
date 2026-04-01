@@ -149,15 +149,16 @@ const jai: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JaiMishra25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=JaiMishra25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true&rank_icon=github" width="48%" />
 <img src="https://streak-stats.demolab.com?user=JaiMishra25&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiMishra25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaiMishra25&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaiMishra25&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaiMishra25&theme=tokyonight&utcOffset=5.5" width="32%" />
 
 </div>
-
 ---
 
 ## 🐍 Contribution Graph
