@@ -130,9 +130,7 @@ const jai: Developer = {
 
 ## 🏆 Achievements & Certifications
 
-
-```
-## 🏆 Achievements & Certifications
+<div align="center">
 
 | | Title | Details |
 |---|---|---|
@@ -142,7 +140,6 @@ const jai: Developer = {
 | 📜 | **Generative AI — Microsoft & LinkedIn** | Prompt Engineering · NLP · Ethical AI |
 | 📜 | **ServiceNow Certified System Administrator** | Platform Nav · UI Customization · Workflow Automation |
 | 📜 | **Cybersecurity Essentials — Microsoft & LinkedIn** | Threat Detection · Network Vulnerabilities · Privacy |
-```
 
 </div>
 
@@ -155,6 +152,8 @@ const jai: Developer = {
 <img src="https://github-readme-stats.vercel.app/api?username=JaiMishra25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="48%" />
 <img src="https://streak-stats.demolab.com?user=JaiMishra25&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="48%" />
 
+<br/><br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiMishra25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" width="40%" />
 
 </div>
@@ -164,7 +163,7 @@ const jai: Developer = {
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github.com/JaiMishra25/JaiMishra25/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/JaiMishra25/JaiMishra25/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
