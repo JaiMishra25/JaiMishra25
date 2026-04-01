@@ -133,25 +133,16 @@ const jai: Developer = {
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║  🥇  AIR 784 — CODEKAZE 2024                                    ║
-║       Top 0.7% out of 1,00,000+ participants nationwide          ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🤖  Amazon ML Summer School 2025                                ║
-║       8 advanced modules: ML · Deep Learning · Generative AI     ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🧠  500+ DSA Problems                                           ║
-║       LeetCode · CodeChef · GeeksForGeeks                        ║
-╠══════════════════════════════════════════════════════════════════╣
-║  📜  Generative AI — Microsoft & LinkedIn                        ║
-║       Prompt Engineering · NLP · Ethical AI                      ║
-╠══════════════════════════════════════════════════════════════════╣
-║  📜  ServiceNow Certified System Administrator                   ║
-║       Platform Nav · UI Customization · Workflow Automation       ║
-╠══════════════════════════════════════════════════════════════════╣
-║  📜  Cybersecurity Essentials — Microsoft & LinkedIn             ║
-║       Threat Detection · Network Vulnerabilities · Privacy        ║
-╚══════════════════════════════════════════════════════════════════╝
+## 🏆 Achievements & Certifications
+
+| | Title | Details |
+|---|---|---|
+| 🥇 | **AIR 784 — CODEKAZE 2024** | Top 0.7% out of 1,00,000+ participants |
+| 🤖 | **Amazon ML Summer School 2025** | ML · Deep Learning · Generative AI |
+| 🧠 | **500+ DSA Problems** | LeetCode · CodeChef · GeeksForGeeks |
+| 📜 | **Generative AI — Microsoft & LinkedIn** | Prompt Engineering · NLP · Ethical AI |
+| 📜 | **ServiceNow Certified System Administrator** | Platform Nav · UI Customization · Workflow Automation |
+| 📜 | **Cybersecurity Essentials — Microsoft & LinkedIn** | Threat Detection · Network Vulnerabilities · Privacy |
 ```
 
 </div>
